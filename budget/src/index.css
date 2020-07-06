@@ -1,0 +1,13 @@
+body {
+    background-color: #a78706;
+    padding: 20px;
+    margin: 0;
+  }
+ button {
+     background-color: silver;
+     padding: 15px 32px;
+ }
+
+ #t-amount, #t-name {
+     background-color: silver;
+ }
